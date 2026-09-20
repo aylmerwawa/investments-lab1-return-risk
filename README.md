@@ -2,6 +2,8 @@
 
 北京师范大学 2026 秋季学期。完整计算在 `作业.ipynb`，报告正文是 `报告.qmd`。
 
+仓库：<https://github.com/aylmerwawa/investments-lab1-return-risk>
+
 ## 数据
 
 把课程发放的 `实践1数据-股指黄金比特币-2006至今.xlsx` 放到本目录（与 notebook 同级）。该文件不进 git。
