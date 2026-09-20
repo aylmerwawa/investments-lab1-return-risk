@@ -1,0 +1,5 @@
+{
+  "venvPath": "/opt/anaconda3/envs",
+  "venv": "ml",
+  "typeCheckingMode": "off"
+}

@@ -1,0 +1,19 @@
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+.mplconfig/
+.ipython-tmp/
+*.pyc
+
+# 课程发放的原始行情，不进公开仓库
+实践1数据*.xlsx
+实践1要求.png
+Liu*.pdf
+
+# 本地编译产物（源文件是 报告.qmd）
+报告.pdf
+报告.html
+报告.tex
+/_build/
+/.quarto/
