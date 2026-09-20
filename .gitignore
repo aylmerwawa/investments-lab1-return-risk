@@ -9,11 +9,14 @@ __pycache__/
 # 课程发放的原始行情，不进公开仓库
 实践1数据*.xlsx
 实践1要求.png
+提交ddl.png
+延伸阅读材料.png
 Liu*.pdf
 
 # 本地编译产物（源文件是 报告.qmd）
 报告.pdf
 报告.html
 报告.tex
+报告_files/
 /_build/
 /.quarto/
